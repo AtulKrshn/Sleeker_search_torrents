@@ -32,4 +32,4 @@ Search torrents, preview files, and download via magnet links using an integrate
 ---
 
 
-[Download and try pre release apk] - (https://github.com/AtulKrshn/Sleeker_search_torrents/releases/tag/pre_release)
+[Download version 1] - (https://github.com/AtulKrshn/Sleeker_search_torrents/releases/tag/pre_release)
